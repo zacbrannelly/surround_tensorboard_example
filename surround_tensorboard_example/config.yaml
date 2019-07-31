@@ -1,0 +1,7 @@
+image: surround_tensorboard_example
+company: a2i2
+version: latest
+
+data_size: 1000
+train_pct: 0.8
+epochs: 100
